@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/CarbonicSoda/vscode-alt-delete/master/media/icon.png" width="100" alt="Alt-Delete Icon" />
+	<img src="https://raw.githubusercontent.com/wavim/vscode-alt-delete/master/media/icon.png" width="100" alt="Alt-Delete Icon" />
 	<p></p>
 	Alt-Delete for VSCode
 </h3>
@@ -27,7 +27,7 @@ but with Alt-Backspace, **camelCase** would become **camel**.
 
 ###
 
-![SHOWCASE](https://github.com/CarbonicSoda/vscode-alt-delete/blob/master/media/showcase.gif?raw=true)
+![SHOWCASE](https://github.com/wavim/vscode-alt-delete/blob/master/media/showcase.gif?raw=true)
 
 ###
 
